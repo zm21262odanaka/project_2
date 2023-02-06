@@ -1,2 +1,51 @@
+ody{
+	background-color:#f5f5f5;
+	color:#000;
+	font-family:"メイリオ","Hiragino Kaku Gothic Pro",sans-serif;
+	text-align:center;
+}
+
+
+
+p{
+	font-size:90%;
+	line-height:1.8;
+}
+
+h1{
+	font-size:180%;
+	margin:0;
+       
+      
+}
+
+h1 {color: #66cdaa;}
+
+
+h2{
+	font-size:120%;
+	padding-left:7px;
+	text-decoration: underline;
+}
+
+
+h3{
+	font-size:100%;
+	margin:0;
+	
+}
+
+
+footer{
+	text-align:center;
+	border-top:5px solid #4169e1;
+}
+
+
+article{
+	position:relative;
+}
+
+
 
 
