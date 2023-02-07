@@ -1,4 +1,4 @@
-function nazo２() {
+function kibun() {
 if (document.getElementById('answer').value=='明るい') {
  alert('フレデリックのオンリーワンダー');
 }
