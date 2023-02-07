@@ -1,9 +1,9 @@
-function kibun() {
-if (document.getElementById('answer').value=='明るい') {
- alert('フレデリックのオンリーワンダー');
+function nazo２() {
+if (document.getElementById('answer2').value=='夢') {
+ alert('あたり!');
 }
-else {
-if (document.getElementById('answer').value=='静かめ') {
- alert ('official 髭男 dismの115万キロのフィルム');
+else 
+ if (document.getElementById('answer2').value=='夢') {
+ alert ('はずれ!');
  }
-}
+} 
