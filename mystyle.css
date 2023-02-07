@@ -1,6 +1,21 @@
-h1 {color:blue;}
-th,td{border:dashed thick black;}
-th.important{color:red;}
-p.sample1 {border: double 10px #0000ff;}
-p.sample2 {border: inset 10px #ff0000;}
-p.sample3 {margin: 30px 30px;padding 10px;border:medium solid #ff00ff;}
+body{
+	background-color:#faebd7;
+	color:#0000ff;
+	font-family:"メイリオ","Hiragino Kaku Gothic Pro",sans-serif;
+	margin:0;
+	padding:0;
+}
+p{
+	font-size:90%;
+	line-height:1.8;
+}
+h1{
+	font-size:180%;
+	margin:0;
+}
+h2{
+	font-size:120%;
+	border-bottom:1px dashed #003366;
+	border-left:10px solid #003366;
+	padding-left:7px;
+}
