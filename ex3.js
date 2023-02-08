@@ -1,7 +1,8 @@
-function nazo2(){
-if(documnt.getElementById('answer'3).value=='いる'){
- alert('あたり！');
+function nazo２() {
+if (document.getElementById('answer2').value=='いる') {
+ alert('あたり!');
 }
- else('はずれ！');
+else {
+ alert ('はずれ!');
  }
-}
+} 
